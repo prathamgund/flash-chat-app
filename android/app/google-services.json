@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "461006571114",
+    "project_id": "prathamesh-47340",
+    "storage_bucket": "prathamesh-47340.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:461006571114:android:d272d1cd09e45b83812c13",
+        "android_client_info": {
+          "package_name": "com.example.flash_chat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbSdGCUY67EQ0tjHUSJv7-NJ_TTQQebDA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
